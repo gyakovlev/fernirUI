@@ -1,0 +1,60 @@
+## Interface: 30300
+## Title: fUI
+## SavedVariables: fuiDB
+## SavedVariablesPerCharacter: oUFMFpos
+## RequiredDeps: Blizzard_CombatText
+
+oUF\oUF.xml
+
+init.lua
+font.lua
+mirror.lua
+
+settings_gui.lua
+mover.lua
+skin.lua
+unitframes.lua
+raid.lua
+core.lua
+binder.lua
+bars.lua
+barstyle.lua
+chat.lua
+minimap.lua
+map.lua
+combattext.lua
+helpers.lua
+tooltip.lua
+nameplates.lua
+loot.lua
+lootroll.lua
+omnicc.lua
+gearscore.lua
+marking.lua
+spellalerter.lua
+bags.lua
+linecd.lua
+cooldown.lua
+treatmeter.lua
+gearmanager.lua
+aero.lua
+arenatrack.lua
+rolltracker.lua
+combatlog_fixer.lua
+mail.lua
+collider.lua
+addonmanager.lua
+fbn.lua
+filger.lua
+aucfix.lua
+nogcdhunter.lua
+
+# plugins
+oUF_Smooth.lua
+oUF_MoveableFrames.lua
+oUF_Trinkets.lua
+combatfeedback.lua
+aurawatch.lua
+oUF_AuraTracker.lua
+oUF_DebuffHighlight.lua
+oUF_MovableFrames.lua
